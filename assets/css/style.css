@@ -1120,6 +1120,9 @@ section {
   max-width: 300px;
   padding: 0 15px 15px 0;
 }
+.departments .tab-pane li {
+  list-style: none;
+}
 
 @media (max-width: 768px) {
   .departments .tab-pane img {
